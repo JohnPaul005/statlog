@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Gasalt-Black; 
+    src: url("/fonts/Gasalt-Black.ttf");
+} 
+
+@font-face {
+    font-family: Gasalt-Regular; 
+    src: url("/fonts/Gasalt-Regular.ttf");
+} 
+
+@font-face {
+    font-family: Gasalt-Thin; 
+    src: url("/fonts/Gasalt-Thin.ttf");
+} 
+
+body, html {
+    height: 100vh;
+    background-color: #e2e2e2;
+}
+
+.font-gasalt {
+    font-family: Gasalt-Black;
+}
